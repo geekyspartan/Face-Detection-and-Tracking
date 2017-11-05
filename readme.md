@@ -23,4 +23,5 @@ Filter number is following:
 Each filter will save a text file with frame_index and x,y coordinates of the middle of the face/head for each frame in the video.
 
 # Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
+[Anurag Arora](https://github.com/geekyspartan)
+[Renu Rani](https://github.com/techiepanda)
