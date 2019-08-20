@@ -21,7 +21,3 @@ Filter number is following:
 * 4 - Optical Flow Filter
 
 Each filter will save a text file with frame_index and x,y coordinates of the middle of the face/head for each frame in the video.
-
-# Team
-[Anurag Arora](https://github.com/geekyspartan)
-[Renu Rani](https://github.com/techiepanda)
